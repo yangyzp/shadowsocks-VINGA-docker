@@ -22,5 +22,3 @@
 
 ```wget -O optimize.sh https://raw.githubusercontents.com/chenjinnian/bt_clean/master/optimize_new.sh && bash optimize.sh```
 
-2022.5.12 tips：
-已去除5.11曝光的搜集用户信息后门
