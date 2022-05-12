@@ -21,3 +21,6 @@
 适用宝塔面板7.9版本的命令（7.9版本不支持去除强制绑定账号，新增去除面板首页广告）：
 
 ```wget -O optimize.sh https://raw.githubusercontents.com/chenjinnian/bt_clean/master/optimize_new.sh && bash optimize.sh```
+
+2022.5.12 tips：
+已去除5.11曝光的搜集用户信息后门
