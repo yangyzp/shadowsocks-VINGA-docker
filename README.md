@@ -33,5 +33,5 @@
 >自建加速源：
 >>```wget -O optimize.sh https://raw.githubusercontents.com/chenjinnian/bt_clean/master/optimize_new.sh && bash optimize.sh```
 
->自建加速源（加速国内）：
+>自建加速源：
 >>```wget -O optimize.sh https://github.chenjinnian.com/chenjinnian/bt_clean/master/optimize_new.sh && bash optimize.sh```
