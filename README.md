@@ -19,7 +19,7 @@
 >github官方源：
 >>```wget -O optimize.sh https://raw.githubusercontent.com/chenjinnian/bt_clean/master/optimize.sh && bash optimize.sh```
 
-第三方加速源：
+>第三方加速源：
 >>```wget -O optimize.sh https://raw.githubusercontents.com/chenjinnian/bt_clean/master/optimize.sh && bash optimize.sh```
 
 >自建加速源：
