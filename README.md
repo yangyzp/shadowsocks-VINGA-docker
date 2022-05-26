@@ -1,6 +1,6 @@
 这个是自用的宝塔面板一键优化补丁，主要有以下优化项目：
 
-1.去除宝塔面板强制绑定账号
+~~1.去除宝塔面板强制绑定账号~~(7.9版本不支持)
 
 2.去除各种删除操作时的计算题与延时等待
 
@@ -24,6 +24,10 @@
 
 >自建加速源：
 >>```wget -O optimize.sh https://github.chenjinnian.com/chenjinnian/bt_clean/master/optimize.sh && bash optimize.sh```
+
+一键升（降）级到宝塔7.7版本命令：```curl http://f.cccyun.cc/bt/update6.sh|bash```
+
+<br>
 
 适用宝塔面板7.9版本的命令（7.9版本不支持去除强制绑定账号，新增去除面板首页广告）：  
 
