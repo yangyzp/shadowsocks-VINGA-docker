@@ -14,7 +14,7 @@
 
 <br><br>
 
-适用宝塔面板版本：7.7:  
+适用宝塔面板版本7.7版本的命令:  
 
 >github官方源：
 >>```wget -O optimize.sh https://raw.githubusercontent.com/chenjinnian/bt_clean/master/optimize.sh && bash optimize.sh```
