@@ -1,3 +1,13 @@
+# 宝塔优化脚本
+
+[![LICENSE](https://img.shields.io/badge/license-Apache--2.0-green)](https://github.com/chenjinnian/bt_clean/blob/main/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/chenjinnian/bt_clean.svg)](https://github.com/chenjinnian/bt_clean/releases)
+[![GitHub stars](https://img.shields.io/github/stars/chenjinnian/bt_clean)](https://github.com/chenjinnian/bt_clean/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/chenjinnian/bt_clean)](https://github.com/chenjinnian/bt_clean/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/chenjinnian/bt_clean)](https://github.com/chenjinnian/bt_clean/issues) 
+
+
+
 这个是自用的宝塔面板一键优化补丁，主要有以下优化项目：
 
 ~~1.去除宝塔面板强制绑定账号~~(7.9版本不支持)
