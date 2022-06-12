@@ -34,9 +34,6 @@
 >第三方加速源：
 >>```wget -O optimize.sh https://raw.githubusercontents.com/chenjinnian/bt_clean/master/optimize.sh && bash optimize.sh```
 
->自建加速源：
->>```wget -O optimize.sh https://github.chenjinnian.com/chenjinnian/bt_clean/master/optimize.sh && bash optimize.sh```
-
 一键升（降）级到宝塔7.7版本命令：  
 
 ```curl https://github.chenjinnian.com/chenjinnian/bt_clean/master/update6.sh|bash```
@@ -50,6 +47,3 @@
 
 >第三方加速源：
 >>```wget -O optimize.sh https://raw.githubusercontents.com/chenjinnian/bt_clean/master/optimize_new.sh && bash optimize.sh```
-
->自建加速源：
->>```wget -O optimize.sh https://github.chenjinnian.com/chenjinnian/bt_clean/master/optimize_new.sh && bash optimize.sh```
