@@ -36,7 +36,11 @@
 
 一键升（降）级到宝塔7.7版本命令：  
 
-```curl https://github.chenjinnian.com/chenjinnian/bt_clean/master/update6.sh|bash```
+>github官方源：
+>>```curl https://raw.githubusercontent.com/chenjinnian/bt_clean/master/update6.sh|bash```
+
+>第三方加速源：
+>>```curl https://raw.githubusercontents.com/chenjinnian/bt_clean/master/update6.sh|bash```
 
 <br>
 
