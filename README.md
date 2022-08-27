@@ -60,9 +60,6 @@
 
 [![](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/?from=https://github.com/chenjinnian)
 
-## 可爱的贡献者们
-
-<a href="https://github.com/chenjinnian/bt_clean/graphs/contributors"><img src="https://opencollective.com/wechat/contributors.svg?width=890" /></a>
 
 ## License
 
